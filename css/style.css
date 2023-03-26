@@ -3,9 +3,11 @@ body {
 }
 
 hr {
-    background-color: white;
     border-style: none;
-    height: 2px;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
 }
 
 img {
@@ -13,9 +15,15 @@ img {
 }
 
 h1 {
-    color: purple;
+    color: #66bfbf;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 12px;
+    font-size: 32px;
+}
+
+h3 {
+    color: #66bfbf;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
 }
 
 #header1 {
