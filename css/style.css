@@ -37,3 +37,7 @@ h1.hover {
     color: red;
 }
 
+.circular {
+    border-radius: 100%;
+}
+
